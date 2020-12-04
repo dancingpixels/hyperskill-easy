@@ -1,6 +1,6 @@
 ### Simple Python Projects 
 
-[Jetbrains](https://hi.hyperskill.org) Academy Python Developer Track
+[Jetbrains](https://hyperskill.org) Academy Python Developer Track
 
 **EASY - LEVEL**
 
